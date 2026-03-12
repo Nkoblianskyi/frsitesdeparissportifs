@@ -44,7 +44,7 @@ export function Hero() {
               <div className="flex flex-col items-center justify-center min-w-[100px] md:min-w-[120px] py-4 px-4 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10 hover:bg-white/10 hover:border-white/20 transition-all">
                 <Image src="/flag.png" alt="" width={24} height={24} className="w-6 h-6 md:w-7 md:h-7 mb-2 opacity-90" />
                 <span className="text-white text-[11px] md:text-xs font-semibold uppercase tracking-wider text-center">
-                  Licence ANJ
+                  Licence
                 </span>
               </div>
 
