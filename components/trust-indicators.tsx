@@ -1,13 +1,13 @@
 import Link from "next/link"
 
 const TRUST_LINKS = [
+  { href: "https://www.adictel.com", src: "/logo-adictel.svg", alt: "ADICTEL" },
   { href: "https://anj.fr", src: "/logo-anj.svg", alt: "ANJ - Autorité Nationale des Jeux" },
-  { href: "https://www.gamstop.co.uk", src: "/logo-gamstop.svg", alt: "GAMSTOP" },
-  { href: "https://www.joueurs-info-service.fr", src: "/jouers-info-service.png", alt: "Joueurs Info Service" },
   { href: "https://www.gambleaware.org", src: "/gamble.webp", alt: "GambleAware" },
   { href: "https://mediateurdesjeuxenligne.fr/", src: "/logo-mediateurs-des-jeux.png", alt: "Médiateur des Jeux" },
-  { href: "https://www.adictel.com", src: "/logo-adictel.svg", alt: "ADICTEL" },
   { href: "https://www.gamcare.org.uk", src: "/gamecare.svg", alt: "GamCare" },
+  { href: "https://www.gamstop.co.uk", src: "/logo-gamstop.svg", alt: "GAMSTOP" },
+  { href: "https://www.joueurs-info-service.fr", src: "/jouers-info-service.png", alt: "Joueurs Info Service" },
   { href: "https://www.sosjoueurs.org/", src: "/logo-sos-joueurs.svg", alt: "SOS Joueurs" },
 ]
 
